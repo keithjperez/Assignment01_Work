@@ -4,6 +4,8 @@ using UnityEngine.InputSystem;
 public class ButtonClick : MonoBehaviour
 {
 
+    // something weird I noticed was that
+    // 0,0 is the place that Unity selects for the XR thing
     public BallPrefab ballPrefab;
     public TargetPrefab targetPrefab;
 

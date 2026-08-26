@@ -30,6 +30,16 @@ public class ScoreManager : MonoBehaviour
     {
         score -= deductedScore;
         scoreText.text = "SCORE: " + score;
+
+        if (score < -20)
+        {
+            scoreText.text = "YOU LOSE!!";
+        }
+    }
+
+    public int getScore()
+    {
+        return score;
     }
 
 }
