@@ -9,6 +9,8 @@ In this game, you use your head to look and aim at targets, once you aim at a ta
 ## Why is this a game?
 I consider this a game because of many different factors. Based on the definition of Jesper Juul, it has rules, outcomes, and negotiable consequences in the way that you can only look around and shoot balls, you can either win or lose and you can determine how much time you waste. Based on the definition of Jesse Schell, this game also needs some problem solving. The problem that needs solving is that the ball is affected by gravity, so you need to aim progressively more accurately to hit the target. I think this a game because there is a win and lose condition, with some form of challenge tied to the win condition. It's also interactive to the point where your actions directly affect whether you win or lose.
 
+## Picture of it running
+![Picture of it working](/Assets/picture_of_it_working.JPG)
 
 ## Inspirations
 Tutorials I saw:
