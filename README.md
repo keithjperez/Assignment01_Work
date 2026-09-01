@@ -1,7 +1,7 @@
 # Assignment 1 - Building and Deploying Your First VR App
 
 ## APK
-Included in the ZIP File, or zipped in here
+Included in the ZIP File, or downloadable from my [itch.io!](https://keithperez.itch.io/comp590-assignment01)
 
 ## What is this game?
 In this game, you use your head to look and aim at targets, once you aim at a target, you can press the button on the Google Cardboard or touch the screen to shoot a ball from your face to hit targets. Be careful though, if you miss 5 balls, then you lose! Get to 300 score to win! I tried to make the scenery something nice, like you were super high up on a building surrounded by skyscrapers you can't see the bottom of.
